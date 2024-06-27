@@ -8,19 +8,16 @@ import close from "./close.svg";
 
 import cplusplus from "./tech/cplusplus.png"; //added
 import cprogramming from"./tech/cprogramming.png"; //added
-import csharp from  "./tech/csharp.png";//added
 import java from "./tech/myjava.png"; //added
 import springboot from "./tech/spring.png"; //added
 import ssms from "./tech/ssms.png"; //added
 import aspnet from "./tech/aspnet.png";//added
-import css from "./tech/css.png";
 import figma from "./tech/figma.png";
 import git from "./tech/git.png";
 import html from "./tech/html.png";
 import javascript from "./tech/javascript.png";
 import mongodb from "./tech/mongodb.png";
 import reactjs from "./tech/reactjs.png";
-import typescript from "./tech/typescript.png";
 import threejs from "./tech/threejs.svg";
 
 
@@ -28,7 +25,6 @@ import snapfluence from "./company/snap.png"//added
 
 import chatanalysis from "./tech/chatanalysis.jpeg"//added
 import smartschool from "./smartschool.jpeg"; //added
-import invoicesystem from "./tech/invoicesystem.png"; //added
 import immigration from  "./tech/immigration.jpeg"; //added
 import ecommerce from "./ecommerce.png" ;//added 
 
@@ -64,7 +60,6 @@ export {
   snapfluence,//added
   cprogramming,//added
   cplusplus,//added
-  csharp,//added
   ssms,//added
   aspnet,//added
   springboot,//added

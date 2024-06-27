@@ -3,12 +3,9 @@ import {
   mobile,
   backend,
   creator,
-  javascript,
-  html,
   reactjs,
   mongodb,
   git,
-  figma,
   chatanalysis,//added
   smartschool,//added
   immigration,//added
@@ -19,11 +16,9 @@ import {
   twitter,//added
   zeeshan,//added
   aman,//added
-  threejs,
   snapfluence,
   cplusplus,
   cprogramming,
-  csharp,
   ssms,
   aspnet,
   springboot,
@@ -68,10 +63,7 @@ const services = [
 ];
 
 const technologies = [
-  {
-    name: "Java",
-    icon: java,
-  },
+  
   {
     name: "C++",
     icon: cplusplus,
@@ -79,10 +71,6 @@ const technologies = [
   {
     name: "C Programming",
     icon: cprogramming,
-  },
-  {
-    name: "C#",
-    icon: csharp,
   },
   {
     name: "React JS",
@@ -93,28 +81,12 @@ const technologies = [
     icon: ssms,
   },
   {
-    name: "JavaScript",
-    icon: javascript,
-  },
-  {
-    name: "HTML",
-    icon: html,
-  },
-  {
     name: "MongoDB",
     icon: mongodb,
   },
   {
-    name: "Three JS",
-    icon: threejs,
-  },
-  {
     name: "git",
     icon: git,
-  },
-  {
-    name: "figma",
-    icon: figma,
   },
   {
     name: "asp.net framework",
