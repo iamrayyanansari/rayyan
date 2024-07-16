@@ -16,13 +16,13 @@ import {
   twitter,//added
   zeeshan,//added
   aman,//added
+  abdulla,
   snapfluence,
-  cplusplus,
-  cprogramming,
   ssms,
   aspnet,
   springboot,
-  
+  tailwind,
+  saif,
 
 
 
@@ -45,16 +45,16 @@ export const navLinks = [
 
 const services = [
   {
+    title: "Backend Developer",
+    icon: backend,
+  },
+  {
     title: "Java Developer",
     icon: java,
   },
   {
     title: "Android Developer",
     icon: mobile,
-  },
-  {
-    title: "Backend Developer",
-    icon: backend,
   },
   {
     title: "Content Creator",
@@ -64,13 +64,18 @@ const services = [
 
 const technologies = [
   
+  
   {
-    name: "C++",
-    icon: cplusplus,
+    name: "asp.net framework",
+    icon: aspnet,
   },
   {
-    name: "C Programming",
-    icon: cprogramming,
+    name: "springboot framework",
+    icon: springboot,
+  },
+  {
+    name: "Tailwind CSS",
+    icon: tailwind,
   },
   {
     name: "React JS",
@@ -88,14 +93,6 @@ const technologies = [
     name: "git",
     icon: git,
   },
-  {
-    name: "asp.net framework",
-    icon: aspnet,
-  },
-  {
-    name: "springboot framework",
-    icon: springboot,
-  },
 ];
 
 const experiences = [
@@ -104,7 +101,7 @@ const experiences = [
     company_name: "SnapFluence Technologies",
     icon: snapfluence,
     iconBg: "#383E57",
-    date: "Dec 2023 - Present",
+    date: "Dec 2023 - July 2024",
     points: [
       "Developing and maintaining web applications using C# asp .net framework and other related technologies.",
       "Collaborating with cross-functional teams including DevOps developer, designers, product managers, and other developers to create high-quality products.",
@@ -127,18 +124,26 @@ const testimonials = [
     testimonial:
       "I thought creating a backend as robust and efficient as ours was impossible, but Rayyan proved us wrong.",
     name: "Aman Khan Pathan",
-    designation: "Associate  Engineer",
-    company: "SnapFluence Technologies",
+    designation: "Software Engineer",
+    company: "TheEcoComp",
     image: aman,
   },
   
   {
     testimonial:
       "Rayyan's backend optimization boosted our traffic by 50%. We are truly grateful for their expertise.",
-    name: "Lisa Wang",
-    designation: "CTO",
-    company: "456 Enterprises",
-    image: "https://randomuser.me/api/portraits/women/6.jpg",
+    name: "Saif Sayyed",
+    designation: "Associate Engineer",
+    company: "SnapFluence Technolgies",
+    image: saif,
+  },
+  {
+    testimonial:
+      "Rayyan Ansari excels in backend development, delivering robust and scalable solutions that enhance application performance and reliability.",
+    name: "Abdulla Shaikh",
+    designation: "Software Engineer",
+    company: "TheEcoComp",
+    image: abdulla,
   },
 ];
 

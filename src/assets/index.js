@@ -9,9 +9,9 @@ import close from "./close.svg";
 import cplusplus from "./tech/cplusplus.png"; //added
 import cprogramming from"./tech/cprogramming.png"; //added
 import java from "./tech/myjava.png"; //added
-import springboot from "./tech/spring.png"; //added
-import ssms from "./tech/ssms.png"; //added
-import aspnet from "./tech/aspnet.png";//added
+import springboot from "./tech/spring2.png"; //added
+import ssms from "./tech/ssms4.png"; //added
+import aspnet from "./tech/aspnet2.png";//added
 import figma from "./tech/figma.png";
 import git from "./tech/git.png";
 import html from "./tech/html.png";
@@ -19,7 +19,7 @@ import javascript from "./tech/javascript.png";
 import mongodb from "./tech/mongodb.png";
 import reactjs from "./tech/reactjs.png";
 import threejs from "./tech/threejs.svg";
-
+import tailwind from "./tech/tailwind.png"
 
 import snapfluence from "./company/snap.png"//added
 
@@ -34,9 +34,11 @@ import telegram from "./socials/telegram.svg";//added
 import twitter from "./socials/twitter.svg";//added
 
 import zeeshan from "./company/zeesshan.jpeg";//added
+import abdulla from "./company/abdullah.jpg";
 import aman from "./company/aman.jpeg";//added
+import saif from  "./company/saif.jpg"
 export {
-  java,//added
+  java,
   mobile,
   backend,
   creator,
@@ -55,6 +57,8 @@ export {
   telegram,//added
   twitter,//added
   zeeshan,//added
+  abdulla,
+  saif,
   aman,//added
   threejs,
   snapfluence,//added
@@ -67,4 +71,5 @@ export {
   github,
   menu,
   close,
+  tailwind,
 };
